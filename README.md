@@ -5,7 +5,7 @@
 협업과 기록을 중요하게 생각하며, 만든 것을 끝까지 동작시키는 것을 목표로 합니다.
 
 - 🎓 인하대학교 컴퓨터공학과
-- 💻 관심 분야: 모바일 앱(Flutter), 백엔드 연동, CS 기초
+- 💻 관심 분야: **보안**, **클라우드**, 모바일 앱(Flutter), 백엔드 연동, CS 기초
 - 📫 kimjoonsur@gmail.com
 
 ---
@@ -49,9 +49,6 @@ CS 지식과 학습 내용을 마크다운으로 꾸준히 정리한 아카이�
 
 ## 🛠️ 기술 스택
 
-| **Cloud & Infrastructure** | AWS (VPC, EC2, ELB, Route53, S3 기반 3-Tier 아키텍처 설계에 대한 이해)                                                        |
-| **Programming Languages**  | Python (Streamlit 웹앱 개발), C++ (STL 구현 및 시스템 로직)                                                                   |
-| **Documentation & Tools**  | Obsidian (지식 관리 및 전공 백업), Notion (프로젝트 협업 및 가이드 작성), Git/GitHub, Claude Code (스킬, Hook, MCP 적극 사용) |
 
 **Mobile / Frontend**
 
