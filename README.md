@@ -1,16 +1,70 @@
-## Hi there 👋
+# 안녕하세요, 김준서입니다 👋
 
-<!--
-**DongiveupJ/DongiveupJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+인하대학교 컴퓨터공학과 재학 중이며, 사용자가 직접 쓰는 화면을 만드는 일에
+관심이 많은 프론트엔드/모바일 개발자입니다.
+협업과 기록을 중요하게 생각하며, 만든 것을 끝까지 동작시키는 것을 목표로 합니다.
 
-Here are some ideas to get you started:
+- 🎓 인하대학교 컴퓨터공학과
+- 💻 관심 분야: 모바일 앱(Flutter), 백엔드 연동, CS 기초
+- 📫 kimjoonsur@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 주요 프로젝트
+
+### 따옴 (Ddaom) — 핫플 포토 가이드 앱 _(팀 프로젝트)_
+
+인기 장소의 "포토존"을 찾고, 원조 사진의 포즈를 ML 가이드로 따라 찍어 공유하는
+모바일 앱입니다. **프론트엔드를 담당**했습니다.
+
+- **역할**: Flutter 앱 전반 — 지도 탐색, 카메라/ML 포즈 가이드, 사진 업로드 플로우, API 연동
+- **기술**: Flutter, Dart, Provider, dio, Google ML Kit(Pose Detection), 네이버 지도, AWS S3
+- **협업**: Spring Boot 백엔드 팀과 REST API 연동, Git 기반 협업
+- 🔗 [Ddaom-frontend](https://github.com/Ddaom-team/Ddaom-frontend) · [Ddaom-backend](https://github.com/Ddaom-team/Ddaom-backend)
+
+### AI Chat Simulator — AI 채팅 시뮬레이터 _(협업)_
+
+AI 서비스 대중화에 따른 캐릭터 챗 AI의 보안 취약점(프롬프트 인젝션, 탈옥 등)을 식별하고 대응 방안을 검증하기 위한 웹 기반 시뮬레이터 개발 프로젝트입니다.
+AI 채팅 시뮬레이션 프로젝트에 컨트리뷰터로 참여했습니다.
+
+- **기술**: Python
+- 🔗 [AI-CHAT-SIMULATOR](https://github.com/katarinabluu-gosegulover/AI-CHAT-SIMULATOR)
+
+### AVL 트리 구현 — 자료구조 & 협업 실습
+
+Git 기반 버전 관리와 팀 협업(코드리뷰)을 실습하며 **AVL 트리를 C++로 구현**한 프로젝트입니다.
+
+- **기술**: C++, 자료구조(균형 이진 탐색 트리), Git 협업 워크플로우
+- 🔗 [INHA_OSAP_001_7](https://github.com/DongiveupJ/INHA_OSAP_001_7)
+
+### 학습 아카이브 — Obsidian 지식 기록
+
+CS 지식과 학습 내용을 마크다운으로 꾸준히 정리한 아카이브입니다.
+
+- 🔗 [Obsidian_Archive_learning_record](https://github.com/DongiveupJ/Obsidian_Archive_learning_record)
+
+---
+
+## 🛠️ 기술 스택
+
+| **Cloud & Infrastructure** | AWS (VPC, EC2, ELB, Route53, S3 기반 3-Tier 아키텍처 설계에 대한 이해)                                                        |
+| **Programming Languages**  | Python (Streamlit 웹앱 개발), C++ (STL 구현 및 시스템 로직)                                                                   |
+| **Documentation & Tools**  | Obsidian (지식 관리 및 전공 백업), Notion (프로젝트 협업 및 가이드 작성), Git/GitHub, Claude Code (스킬, Hook, MCP 적극 사용) |
+
+**Mobile / Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+**Backend / DB (협업 경험)**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Language / Tools**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
