@@ -44,9 +44,10 @@ CS 지식과 학습 내용을 마크다운으로 꾸준히 정리한 아카이�
 
 - 🔗 [Obsidian_Archive_learning_record](https://github.com/DongiveupJ/Obsidian_Archive_learning_record)
 
-### 보안제품개발 스터디 - INHACK
+### 보안개발 스터디 - INHACK
 
 인하대학교 보안동아리 INHACK의 보안개발 트랙 스터디 레포입니다. 개발 파이프라인에서의 공급망 보안을 다룹니다.
+
 Git-> CI/CD -> 패키지 -> 배포 -> 인증 형태로 진행되고 각 항목별로 1. (조사 후 발표) -> 2. (취약점 재현->원인분석->방어구현)로 진행 예정되어 10주를 채울 예정입니다. 
 
 - 🔗 [INHACK_Security_Development Public](https://github.com/DongiveupJ/INHACK_Security_Development)
