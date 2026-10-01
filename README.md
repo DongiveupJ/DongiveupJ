@@ -5,7 +5,7 @@
 
 - 🎓 인하대학교 컴퓨터공학과
 - 💻 관심 분야: **보안**, **클라우드**, 모바일 앱(Flutter), 백엔드 연동
-- 📫 kimjoonsur@gmail.com
+- 📫 kkkjs13@naver.com
 
 ---
 
@@ -18,7 +18,6 @@
 
 - **역할**: Flutter 앱 전반 — 지도 탐색, 카메라/ML 포즈 가이드, 사진 업로드 플로우, API 연동
 - **기술**: Flutter, Dart, Provider, dio, Google ML Kit(Pose Detection), 네이버 지도, AWS S3
-- **협업**: Spring Boot 백엔드 팀과 REST API 연동, Git 기반 협업
 - 🔗 [Ddaom-frontend](https://github.com/Ddaom-team/Ddaom-frontend) · [Ddaom-backend](https://github.com/Ddaom-team/Ddaom-backend)
 
 ### AI Chat Simulator — AI 채팅 시뮬레이터 _(협업)_
@@ -38,11 +37,6 @@ Git 기반 버전 관리와 팀 협업(코드리뷰)을 실습하며 **AVL 트�
 - **기술**: C++, 자료구조(균형 이진 탐색 트리), Git 협업 워크플로우
 - 🔗 [INHA_OSAP_001_7](https://github.com/DongiveupJ/INHA_OSAP_001_7)
 
-### 학습 아카이브 — Obsidian 지식 기록
-
-CS 지식과 학습 내용을 마크다운으로 꾸준히 정리한 아카이브입니다.
-
-- 🔗 [Obsidian_Archive_learning_record](https://github.com/DongiveupJ/Obsidian_Archive_learning_record)
 
 ### 보안개발 스터디 - INHACK
 
