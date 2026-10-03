@@ -28,7 +28,7 @@ AI 서비스 대중화에 따른 캐릭터 챗 AI의 보안 취약점(프롬프�
 공급망 관리 실패, 멀티턴 공격 등 유의미한 취약점을 발견했습니다.
 
 - **기술**: Python
-- 🔗 [AI-CHAT-SIMULATOR](https://github.com/katarinabluu-gosegulover/AI-CHAT-SIMULATOR)
+- 🔗 [AI-CHAT-SIMULATOR](https://github.com/DongiveupJ/AI-CHAT-SIMULATOR)
 
 ### AVL 트리 구현 — 자료구조 & 협업 실습
 
